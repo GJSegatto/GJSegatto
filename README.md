@@ -4,10 +4,6 @@ Estou cursando Engenharia da Computação na Faculdade Federal de Santa Catarina
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GJSegatto?cardType=github&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 
-## Tecnologias mais utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GJSegatto&hide_progress=true)
-
 <!--
 **GJSegatto/GJSegatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
