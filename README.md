@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=FFFFFF&random=true&width=435&lines=Back-End+Developer;Data+Analyst;Always+Improving;Computer+Engineer">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=FFFFFF&center=true&random=true&width=435&lines=Back-End+Developer;Data+Analyst;Always+Improving;Computer+Engineer">
 </p>
 
 ## Opa, tudo bom? Eu sou o Gabriel Juliani Segatto 👋👋
