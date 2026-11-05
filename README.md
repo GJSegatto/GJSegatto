@@ -2,7 +2,9 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Gabriel+Segatto&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=1F54F7&center=true&random=true&width=435&lines=Back-End+Developer;Data+Analyst;Always+Improving;Computer+Engineer)](https://git.io/typing-svg)
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=FFFFFF&random=true&width=435&lines=Back-End+Developer;Data+Analyst;Always+Improving;Computer+Engineer">
+</p>
 
 ## Opa, tudo bom? Eu sou o Gabriel Juliani Segatto 👋👋
 
