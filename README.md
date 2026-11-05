@@ -22,11 +22,11 @@ Um pouco do que eu sei fazer (ou já fiz)
 
 [![Frontend](https://skillicons.dev/icons?i=react,html,css,js)](https://skillicons.dev)
 
-### DB
+### Bancos de Dados
 
 [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongo)](https://skillicons.dev)
 
-### Embarcados
+### Software Embarcado / Desenvolvimento de Hardware
 
 [![Embbeded](https://skillicons.dev/icons?i=c,cpp,arduino)](https://skillicons.dev)
 
